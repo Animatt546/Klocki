@@ -85,4 +85,9 @@ h1{
     height: 100%;
     background-color: blue;
     background: url("1.jpg") no-repeat 0 0 fixed;
+    transition: all 0.5s;
+}
+
+.hidden {
+    opacity: 0;
 }
